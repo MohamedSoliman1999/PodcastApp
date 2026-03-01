@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بودكاست</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_search">بحث</string>
+    <string name="nav_library">مكتبتي</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Home -->
+    <string name="greeting">مساء الخير، عبدالرحمن</string>
+    <string name="tab_all">الكل</string>
+    <string name="tab_podcast">البودكاست</string>
+    <string name="tab_audio_articles">المقالات الصوتية</string>
+    <string name="tab_books">الكتب</string>
+    <string name="queue_meta">%1$d حلقات · ٧س ٢٣د</string>
+
+    <!-- Search -->
+    <string name="search_hint">ابحث عن بودكاست أو حلقة…</string>
+    <string name="search_idle_message">ابحث عن بودكاستك المفضل</string>
+    <string name="search_no_results">لا توجد نتائج لـ \"%1$s\"</string>
+
+    <!-- Settings -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_dark_mode">الوضع الداكن</string>
+    <string name="settings_language">اللغة</string>
+    <string name="language_english">الإنجليزية</string>
+    <string name="language_arabic">العربية</string>
+    <string name="dialog_cancel">إلغاء</string>
+    <string name="toggle_light">فاتح</string>
+    <string name="toggle_dark">داكن</string>
+    <string name="try_again">إعادة المحاولة</string>
+</resources>

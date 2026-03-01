@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SettingsViewModel" tests="16" skipped="0" failures="0" errors="0" timestamp="2026-03-01T22:58:15" hostname="Solimans-MacBook-Pro.local" time="0.431">
+  <properties/>
+  <testcase name="isReady is false before the first DataStore emission is processed" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.113"/>
+  <testcase name="setDarkMode(true) saves settings with isDarkMode = true" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.031"/>
+  <testcase name="setLanguage preserves the current dark mode state" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.023"/>
+  <testcase name="initial settings match the domain defaults: isDarkMode=false, language=ARABIC" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.02"/>
+  <testcase name="AppLanguage.ENGLISH has BCP-47 tag 'en'" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.019"/>
+  <testcase name="isReady stays true after subsequent repository emissions" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.022"/>
+  <testcase name="setDarkMode(false) saves settings with isDarkMode = false" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.023"/>
+  <testcase name="setDarkMode preserves the current language selection" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.021"/>
+  <testcase name="isReady becomes true after the first DataStore value is collected" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.019"/>
+  <testcase name="setLanguage(ARABIC) saves settings with language = ARABIC" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.018"/>
+  <testcase name="settings StateFlow emits updated values when the repository flow changes" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.019"/>
+  <testcase name="setDarkMode delegates to saveSettingsUseCase exactly once" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.02"/>
+  <testcase name="setLanguage(ENGLISH) saves settings with language = ENGLISH" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.02"/>
+  <testcase name="setLanguage invokes AppCompatDelegate.setApplicationLocales with the correct tag" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.02"/>
+  <testcase name="setLanguage delegates to saveSettingsUseCase exactly once" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.02"/>
+  <testcase name="AppLanguage.ARABIC has BCP-47 tag 'ar'" classname="com.podcast.app.ui.viewmodel.SettingsViewModelTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

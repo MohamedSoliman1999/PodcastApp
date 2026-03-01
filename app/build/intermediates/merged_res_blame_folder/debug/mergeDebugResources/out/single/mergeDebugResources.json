@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_pause.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.podcast.app-main-72:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_search.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/font_ibm_plex_sans_arabic_text.otf.flat",
+        "source": "com.podcast.app-main-72:/font/ibm_plex_sans_arabic_text.otf"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_play.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_library.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_library.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/font_ibm_plex_sans_arabic_semi_bold.otf.flat",
+        "source": "com.podcast.app-main-72:/font/ibm_plex_sans_arabic_semi_bold.otf"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/font_ibm_plex_sans_arabic_light.otf.flat",
+        "source": "com.podcast.app-main-72:/font/ibm_plex_sans_arabic_light.otf"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_dark_mode.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_dark_mode.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.podcast.app-main-72:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_queue.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_queue.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_podcast_placeholder.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_podcast_placeholder.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.podcast.app-main-72:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_close.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_star.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/font_ibm_plex_sans_arabic_medium.otf.flat",
+        "source": "com.podcast.app-main-72:/font/ibm_plex_sans_arabic_medium.otf"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.podcast.app-main-72:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.podcast.app-main-72:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/font_ibm_plex_sans_arabic_regular.otf.flat",
+        "source": "com.podcast.app-main-72:/font/ibm_plex_sans_arabic_regular.otf"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_sun.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_sun.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_home.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.podcast.app-main-72:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/font_ibm_plex_sans_arabic_thin.otf.flat",
+        "source": "com.podcast.app-main-72:/font/ibm_plex_sans_arabic_thin.otf"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/font_ibm_plex_sans_arabic_extra_light.otf.flat",
+        "source": "com.podcast.app-main-72:/font/ibm_plex_sans_arabic_extra_light.otf"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.podcast.app-main-72:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_more_vert.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_more_vert.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.podcast.app-main-72:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/xml_locales_config.xml.flat",
+        "source": "com.podcast.app-main-72:/xml/locales_config.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.podcast.app-main-72:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.podcast.app-main-72:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/font_ibm_plex_sans_arabic_bold.otf.flat",
+        "source": "com.podcast.app-main-72:/font/ibm_plex_sans_arabic_bold.otf"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.podcast.app-main-72:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_play_small.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_play_small.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_chevron_start.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_chevron_start.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_language.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_language.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/drawable_ic_settings.xml.flat",
+        "source": "com.podcast.app-main-72:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.podcast.app-debug-70:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.podcast.app-main-72:/mipmap-hdpi/ic_launcher.webp"
+    }
+]

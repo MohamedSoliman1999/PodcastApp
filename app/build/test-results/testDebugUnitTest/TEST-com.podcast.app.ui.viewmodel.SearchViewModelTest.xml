@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SearchViewModel" tests="14" skipped="0" failures="0" errors="0" timestamp="2026-03-01T22:58:15" hostname="Solimans-MacBook-Pro.local" time="0.701">
+  <properties/>
+  <testcase name="initial state is idle with a blank query and no results" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.631"/>
+  <testcase name="onQueryChange with a blank string sets isIdle = true" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.027"/>
+  <testcase name="onQueryChange with non-blank query sets isIdle = false" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.005"/>
+  <testcase name="rapid typing within the window fires only one search for the final query" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.008"/>
+  <testcase name="successful search populates results and clears isSearching" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.003"/>
+  <testcase name="use-case IS invoked after 200 ms have elapsed since the last keystroke" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.003"/>
+  <testcase name="use-case is NOT invoked before the 200 ms debounce window has elapsed" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.003"/>
+  <testcase name="failed search sets errorMessage and clears isSearching" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.002"/>
+  <testcase name="a query shorter than 2 characters is never forwarded to the use-case" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.001"/>
+  <testcase name="isSearching transitions to true while the network request is in flight" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.003"/>
+  <testcase name="clearSearch resets all state to its initial defaults" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.002"/>
+  <testcase name="onQueryChange reflects the new query in uiState immediately" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.001"/>
+  <testcase name="empty results from the use-case are reflected in the results list" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.002"/>
+  <testcase name="a new query cancels the previous in-flight request before it completes" classname="com.podcast.app.ui.viewmodel.SearchViewModelTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (/Users/soliman/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.17/e3c251a39dc90badaf71c83427ba46840f219d8d/byte-buddy-agent-1.14.17.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomeViewModel" tests="13" skipped="0" failures="0" errors="0" timestamp="2026-03-01T22:58:16" hostname="Solimans-MacBook-Pro.local" time="0.029">
+  <properties/>
+  <testcase name="loadHome resets selectedTabIndex to 0 on successful reload" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.013"/>
+  <testcase name="errorMessage contains the exception's localizedMessage" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.001"/>
+  <testcase name="onTabSelected emits a ScrollToSection event with the chosen index" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.001"/>
+  <testcase name="exposes errorMessage and clears isLoading on failure" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.001"/>
+  <testcase name="exposes loaded sections and clears isLoading on success" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.001"/>
+  <testcase name="onTabSelected correctly stores different tab indices" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.001"/>
+  <testcase name="onScrolledToSection updates selectedTabIndex without emitting a scroll event" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.002"/>
+  <testcase name="isLoading is true immediately after construction, before the use-case emits" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.0"/>
+  <testcase name="loadHome clears the previous error and sets isLoading before re-fetching" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.001"/>
+  <testcase name="loadHome delivers new sections after a previous failure" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.002"/>
+  <testcase name="onScrolledToSection does nothing when the index is already selected" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.002"/>
+  <testcase name="onScrolledToSection updates tab when scrolling to a different section" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.002"/>
+  <testcase name="onTabSelected updates selectedTabIndex in uiState" classname="com.podcast.app.ui.screens.home.HomeViewModelTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

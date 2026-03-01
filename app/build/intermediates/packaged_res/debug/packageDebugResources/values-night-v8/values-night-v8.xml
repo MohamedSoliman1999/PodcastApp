@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FF0F0F0F</color>
+    <color name="gold">#FFF5C842</color>
+    <style name="Theme.PodcastApp.Splash" parent="Theme.SplashScreen">
+        <item name="postSplashScreenTheme">@style/Theme.PodcastApp</item>
+        <item name="windowSplashScreenBackground">@color/background</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+    </style>
+</resources>

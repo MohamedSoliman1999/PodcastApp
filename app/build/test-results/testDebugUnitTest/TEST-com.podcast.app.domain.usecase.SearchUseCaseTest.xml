@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SearchUseCase" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-03-01T22:58:16" hostname="Solimans-MacBook-Pro.local" time="0.032">
+  <properties/>
+  <testcase name="returns empty list wrapped in Result.success when repository has no results" classname="com.podcast.app.domain.usecase.SearchUseCaseTest" time="0.012"/>
+  <testcase name="throws IllegalArgumentException for blank query: []" classname="com.podcast.app.domain.usecase.SearchUseCaseTest" time="0.002"/>
+  <testcase name="throws IllegalArgumentException for blank query: [   ]" classname="com.podcast.app.domain.usecase.SearchUseCaseTest" time="0.0"/>
+  <testcase name="propagates repository failure as Result.failure" classname="com.podcast.app.domain.usecase.SearchUseCaseTest" time="0.001"/>
+  <testcase name="delegates to repository exactly once per invocation" classname="com.podcast.app.domain.usecase.SearchUseCaseTest" time="0.002"/>
+  <testcase name="trims leading and trailing whitespace before passing to repository" classname="com.podcast.app.domain.usecase.SearchUseCaseTest" time="0.002"/>
+  <testcase name="returns results for a valid non-blank query" classname="com.podcast.app.domain.usecase.SearchUseCaseTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

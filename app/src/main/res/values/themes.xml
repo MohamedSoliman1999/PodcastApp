@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        Main app theme.
+        AppCompat parent is required for AppCompatDelegate.setApplicationLocales().
+        windowBackground uses @color/background which resolves to:
+          • values/colors.xml        → #F5F5F5 (light)  in light mode
+          • values-night/colors.xml  → #0F0F0F (dark)   in dark mode
+        This means the XML window background always matches the Compose theme
+        color, eliminating the flash between the XML window draw and the first
+        Compose frame.
+    -->
+    <style name="Theme.PodcastApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!--
+        Splash screen theme.
+        Applied to MainActivity via the manifest so the SplashScreen API
+        can install itself before setContentView / setContent is called.
+
+        postSplashScreenTheme  → tells the splash API which theme to apply
+                                  once the splash is dismissed.
+        windowSplashScreenBackground → the solid color shown behind the splash
+                                        icon while DataStore is loading.
+                                        Uses @color/background so it already
+                                        matches the final app background.
+        windowSplashScreenAnimatedIcon → the launcher icon (or a dedicated
+                                          splash drawable).
+    -->
+    <style name="Theme.PodcastApp.Splash" parent="Theme.SplashScreen">
+        <item name="postSplashScreenTheme">@style/Theme.PodcastApp</item>
+        <item name="windowSplashScreenBackground">@color/background</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+    </style>
+
+</resources>

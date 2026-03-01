@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.podcast.app.ui.HomeScreenTest" tests="40" failures="0" errors="0" skipped="0" time="65.894" timestamp="2026-03-01T22:57:56" hostname="localhost">
+  <properties>
+    <property name="device" value="SM-A155F - 16" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="homeScreen_renders_section_names_as_tabs" classname="com.podcast.app.ui.HomeScreenTest" time="3.518" />
+  <testcase name="homeScreen_shows_loading_shimmer" classname="com.podcast.app.ui.HomeScreenTest" time="2.731" />
+  <testcase name="homeScreen_settings_icon_triggers_callback" classname="com.podcast.app.ui.HomeScreenTest" time="2.252" />
+  <testcase name="homeScreen_no_tabs_rendered_when_sections_are_empty" classname="com.podcast.app.ui.HomeScreenTest" time="1.322" />
+  <testcase name="homeScreen_selected_tab_highlights_correctly" classname="com.podcast.app.ui.HomeScreenTest" time="2.11" />
+  <testcase name="homeScreen_error_does_not_show_tabs" classname="com.podcast.app.ui.HomeScreenTest" time="1.135" />
+  <testcase name="homeScreen_all_three_tab_nodes_exist_for_three_sections" classname="com.podcast.app.ui.HomeScreenTest" time="1.772" />
+  <testcase name="homeScreen_tab_selection_triggers_callback" classname="com.podcast.app.ui.HomeScreenTest" time="2.096" />
+  <testcase name="miniPlayer_skip_forward_triggers_callback" classname="com.podcast.app.ui.MiniPlayerBarTest" time="1.289" />
+  <testcase name="miniPlayer_shows_buffering_indicator_when_buffering" classname="com.podcast.app.ui.MiniPlayerBarTest" time="1.755" />
+  <testcase name="miniPlayer_shows_pause_icon_when_playing" classname="com.podcast.app.ui.MiniPlayerBarTest" time="1.593" />
+  <testcase name="miniPlayer_is_displayed" classname="com.podcast.app.ui.MiniPlayerBarTest" time="1.377" />
+  <testcase name="miniPlayer_play_button_triggers_callback" classname="com.podcast.app.ui.MiniPlayerBarTest" time="1.668" />
+  <testcase name="miniPlayer_episode_title_is_displayed" classname="com.podcast.app.ui.MiniPlayerBarTest" time="1.216" />
+  <testcase name="miniPlayer_pause_button_triggers_callback" classname="com.podcast.app.ui.MiniPlayerBarTest" time="1.327" />
+  <testcase name="miniPlayer_shows_play_icon_when_stopped" classname="com.podcast.app.ui.MiniPlayerBarTest" time="1.253" />
+  <testcase name="miniPlayer_remaining_label_is_displayed" classname="com.podcast.app.ui.MiniPlayerBarTest" time="1.402" />
+  <testcase name="miniPlayer_queue_count_badge_is_displayed" classname="com.podcast.app.ui.MiniPlayerBarTest" time="1.775" />
+  <testcase name="searchScreen_shows_idle_state_initially" classname="com.podcast.app.ui.SearchScreenTest" time="1.368" />
+  <testcase name="searchBar_updates_query_on_input" classname="com.podcast.app.ui.SearchScreenTest" time="1.982" />
+  <testcase name="searchScreen_idle_message_is_visible" classname="com.podcast.app.ui.SearchScreenTest" time="1.596" />
+  <testcase name="searchScreen_clear_button_absent_when_query_is_empty" classname="com.podcast.app.ui.SearchScreenTest" time="1.341" />
+  <testcase name="searchScreen_shows_loading_shimmer_when_isSearching" classname="com.podcast.app.ui.SearchScreenTest" time="1.351" />
+  <testcase name="searchScreen_clear_button_appears_when_query_is_non_empty" classname="com.podcast.app.ui.SearchScreenTest" time="1.877" />
+  <testcase name="languageDialog_selecting_english_invokes_callback" classname="com.podcast.app.ui.SettingsScreenTest" time="1.718" />
+  <testcase name="settingsScreen_renders_correctly_in_light_mode" classname="com.podcast.app.ui.SettingsScreenTest" time="1.197" />
+  <testcase name="languageDialog_cancel_button_invokes_dismiss" classname="com.podcast.app.ui.SettingsScreenTest" time="1.457" />
+  <testcase name="settingsScreen_shows_language_row" classname="com.podcast.app.ui.SettingsScreenTest" time="1.367" />
+  <testcase name="settingsScreen_language_row_shows_current_language_arabic" classname="com.podcast.app.ui.SettingsScreenTest" time="1.311" />
+  <testcase name="languageDialog_cancel_button_is_visible" classname="com.podcast.app.ui.SettingsScreenTest" time="1.51" />
+  <testcase name="settingsScreen_renders_correctly_in_dark_mode" classname="com.podcast.app.ui.SettingsScreenTest" time="1.203" />
+  <testcase name="languageDialog_selecting_arabic_invokes_callback" classname="com.podcast.app.ui.SettingsScreenTest" time="1.632" />
+  <testcase name="darkModeToggle_clicking_light_segment_invokes_callback_with_false" classname="com.podcast.app.ui.SettingsScreenTest" time="1.379" />
+  <testcase name="darkModeToggle_shows_light_and_dark_segments" classname="com.podcast.app.ui.SettingsScreenTest" time="1.291" />
+  <testcase name="settingsScreen_language_row_shows_current_language_english" classname="com.podcast.app.ui.SettingsScreenTest" time="1.4" />
+  <testcase name="settingsScreen_shows_dark_mode_row" classname="com.podcast.app.ui.SettingsScreenTest" time="1.319" />
+  <testcase name="settingsScreen_is_displayed" classname="com.podcast.app.ui.SettingsScreenTest" time="1.257" />
+  <testcase name="settingsScreen_tapping_language_row_opens_picker_dialog" classname="com.podcast.app.ui.SettingsScreenTest" time="1.635" />
+  <testcase name="darkModeToggle_clicking_dark_segment_invokes_callback_with_true" classname="com.podcast.app.ui.SettingsScreenTest" time="1.809" />
+  <testcase name="languageDialog_shows_both_options" classname="com.podcast.app.ui.SettingsScreenTest" time="1.193" />
+</testsuite>

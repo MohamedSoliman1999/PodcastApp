@@ -1,0 +1,2096 @@
+# 2026-03-01T22:57:56.225313Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 40
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "HomeScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "homeScreen_renders_section_names_as_tabs"
+    start_time {
+      seconds: 1772405810
+      nanos: 285000000
+    }
+    end_time {
+      seconds: 1772405813
+      nanos: 815000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.HomeScreenTest-homeScreen_renders_section_names_as_tabs.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HomeScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "homeScreen_shows_loading_shimmer"
+    start_time {
+      seconds: 1772405813
+      nanos: 839000000
+    }
+    end_time {
+      seconds: 1772405816
+      nanos: 569000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.HomeScreenTest-homeScreen_shows_loading_shimmer.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HomeScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "homeScreen_settings_icon_triggers_callback"
+    start_time {
+      seconds: 1772405816
+      nanos: 571000000
+    }
+    end_time {
+      seconds: 1772405818
+      nanos: 817000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.HomeScreenTest-homeScreen_settings_icon_triggers_callback.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HomeScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "homeScreen_no_tabs_rendered_when_sections_are_empty"
+    start_time {
+      seconds: 1772405818
+      nanos: 822000000
+    }
+    end_time {
+      seconds: 1772405820
+      nanos: 141000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.HomeScreenTest-homeScreen_no_tabs_rendered_when_sections_are_empty.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HomeScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "homeScreen_selected_tab_highlights_correctly"
+    start_time {
+      seconds: 1772405820
+      nanos: 144000000
+    }
+    end_time {
+      seconds: 1772405822
+      nanos: 249000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.HomeScreenTest-homeScreen_selected_tab_highlights_correctly.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HomeScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "homeScreen_error_does_not_show_tabs"
+    start_time {
+      seconds: 1772405822
+      nanos: 253000000
+    }
+    end_time {
+      seconds: 1772405823
+      nanos: 388000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.HomeScreenTest-homeScreen_error_does_not_show_tabs.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HomeScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "homeScreen_all_three_tab_nodes_exist_for_three_sections"
+    start_time {
+      seconds: 1772405823
+      nanos: 393000000
+    }
+    end_time {
+      seconds: 1772405825
+      nanos: 163000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.HomeScreenTest-homeScreen_all_three_tab_nodes_exist_for_three_sections.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HomeScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "homeScreen_tab_selection_triggers_callback"
+    start_time {
+      seconds: 1772405825
+      nanos: 165000000
+    }
+    end_time {
+      seconds: 1772405827
+      nanos: 260000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.HomeScreenTest-homeScreen_tab_selection_triggers_callback.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MiniPlayerBarTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "miniPlayer_skip_forward_triggers_callback"
+    start_time {
+      seconds: 1772405827
+      nanos: 262000000
+    }
+    end_time {
+      seconds: 1772405828
+      nanos: 546000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.MiniPlayerBarTest-miniPlayer_skip_forward_triggers_callback.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MiniPlayerBarTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "miniPlayer_shows_buffering_indicator_when_buffering"
+    start_time {
+      seconds: 1772405828
+      nanos: 551000000
+    }
+    end_time {
+      seconds: 1772405830
+      nanos: 331000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.MiniPlayerBarTest-miniPlayer_shows_buffering_indicator_when_buffering.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MiniPlayerBarTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "miniPlayer_shows_pause_icon_when_playing"
+    start_time {
+      seconds: 1772405830
+      nanos: 332000000
+    }
+    end_time {
+      seconds: 1772405831
+      nanos: 923000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.MiniPlayerBarTest-miniPlayer_shows_pause_icon_when_playing.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MiniPlayerBarTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "miniPlayer_is_displayed"
+    start_time {
+      seconds: 1772405831
+      nanos: 925000000
+    }
+    end_time {
+      seconds: 1772405833
+      nanos: 300000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.MiniPlayerBarTest-miniPlayer_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MiniPlayerBarTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "miniPlayer_play_button_triggers_callback"
+    start_time {
+      seconds: 1772405833
+      nanos: 304000000
+    }
+    end_time {
+      seconds: 1772405834
+      nanos: 969000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.MiniPlayerBarTest-miniPlayer_play_button_triggers_callback.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MiniPlayerBarTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "miniPlayer_episode_title_is_displayed"
+    start_time {
+      seconds: 1772405834
+      nanos: 998000000
+    }
+    end_time {
+      seconds: 1772405836
+      nanos: 211000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.MiniPlayerBarTest-miniPlayer_episode_title_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MiniPlayerBarTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "miniPlayer_pause_button_triggers_callback"
+    start_time {
+      seconds: 1772405836
+      nanos: 214000000
+    }
+    end_time {
+      seconds: 1772405837
+      nanos: 539000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.MiniPlayerBarTest-miniPlayer_pause_button_triggers_callback.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MiniPlayerBarTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "miniPlayer_shows_play_icon_when_stopped"
+    start_time {
+      seconds: 1772405837
+      nanos: 543000000
+    }
+    end_time {
+      seconds: 1772405838
+      nanos: 792000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.MiniPlayerBarTest-miniPlayer_shows_play_icon_when_stopped.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MiniPlayerBarTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "miniPlayer_remaining_label_is_displayed"
+    start_time {
+      seconds: 1772405838
+      nanos: 796000000
+    }
+    end_time {
+      seconds: 1772405840
+      nanos: 196000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.MiniPlayerBarTest-miniPlayer_remaining_label_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MiniPlayerBarTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "miniPlayer_queue_count_badge_is_displayed"
+    start_time {
+      seconds: 1772405840
+      nanos: 199000000
+    }
+    end_time {
+      seconds: 1772405841
+      nanos: 972000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.MiniPlayerBarTest-miniPlayer_queue_count_badge_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SearchScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "searchScreen_shows_idle_state_initially"
+    start_time {
+      seconds: 1772405841
+      nanos: 974000000
+    }
+    end_time {
+      seconds: 1772405843
+      nanos: 341000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SearchScreenTest-searchScreen_shows_idle_state_initially.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SearchScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "searchBar_updates_query_on_input"
+    start_time {
+      seconds: 1772405843
+      nanos: 344000000
+    }
+    end_time {
+      seconds: 1772405845
+      nanos: 322000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SearchScreenTest-searchBar_updates_query_on_input.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SearchScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "searchScreen_idle_message_is_visible"
+    start_time {
+      seconds: 1772405845
+      nanos: 353000000
+    }
+    end_time {
+      seconds: 1772405846
+      nanos: 944000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SearchScreenTest-searchScreen_idle_message_is_visible.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SearchScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "searchScreen_clear_button_absent_when_query_is_empty"
+    start_time {
+      seconds: 1772405846
+      nanos: 949000000
+    }
+    end_time {
+      seconds: 1772405848
+      nanos: 288000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SearchScreenTest-searchScreen_clear_button_absent_when_query_is_empty.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SearchScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "searchScreen_shows_loading_shimmer_when_isSearching"
+    start_time {
+      seconds: 1772405848
+      nanos: 291000000
+    }
+    end_time {
+      seconds: 1772405849
+      nanos: 637000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SearchScreenTest-searchScreen_shows_loading_shimmer_when_isSearching.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SearchScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "searchScreen_clear_button_appears_when_query_is_non_empty"
+    start_time {
+      seconds: 1772405849
+      nanos: 641000000
+    }
+    end_time {
+      seconds: 1772405851
+      nanos: 515000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SearchScreenTest-searchScreen_clear_button_appears_when_query_is_non_empty.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "languageDialog_selecting_english_invokes_callback"
+    start_time {
+      seconds: 1772405851
+      nanos: 521000000
+    }
+    end_time {
+      seconds: 1772405853
+      nanos: 242000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-languageDialog_selecting_english_invokes_callback.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "settingsScreen_renders_correctly_in_light_mode"
+    start_time {
+      seconds: 1772405853
+      nanos: 246000000
+    }
+    end_time {
+      seconds: 1772405854
+      nanos: 446000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-settingsScreen_renders_correctly_in_light_mode.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "languageDialog_cancel_button_invokes_dismiss"
+    start_time {
+      seconds: 1772405854
+      nanos: 449000000
+    }
+    end_time {
+      seconds: 1772405855
+      nanos: 902000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-languageDialog_cancel_button_invokes_dismiss.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "settingsScreen_shows_language_row"
+    start_time {
+      seconds: 1772405855
+      nanos: 904000000
+    }
+    end_time {
+      seconds: 1772405857
+      nanos: 202000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-settingsScreen_shows_language_row.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "settingsScreen_language_row_shows_current_language_arabic"
+    start_time {
+      seconds: 1772405857
+      nanos: 259000000
+    }
+    end_time {
+      seconds: 1772405858
+      nanos: 586000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-settingsScreen_language_row_shows_current_language_arabic.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "languageDialog_cancel_button_is_visible"
+    start_time {
+      seconds: 1772405858
+      nanos: 589000000
+    }
+    end_time {
+      seconds: 1772405860
+      nanos: 110000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-languageDialog_cancel_button_is_visible.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "settingsScreen_renders_correctly_in_dark_mode"
+    start_time {
+      seconds: 1772405860
+      nanos: 141000000
+    }
+    end_time {
+      seconds: 1772405861
+      nanos: 345000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-settingsScreen_renders_correctly_in_dark_mode.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "languageDialog_selecting_arabic_invokes_callback"
+    start_time {
+      seconds: 1772405861
+      nanos: 346000000
+    }
+    end_time {
+      seconds: 1772405862
+      nanos: 963000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-languageDialog_selecting_arabic_invokes_callback.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "darkModeToggle_clicking_light_segment_invokes_callback_with_false"
+    start_time {
+      seconds: 1772405862
+      nanos: 966000000
+    }
+    end_time {
+      seconds: 1772405864
+      nanos: 355000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-darkModeToggle_clicking_light_segment_invokes_callback_with_false.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "darkModeToggle_shows_light_and_dark_segments"
+    start_time {
+      seconds: 1772405864
+      nanos: 358000000
+    }
+    end_time {
+      seconds: 1772405865
+      nanos: 647000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-darkModeToggle_shows_light_and_dark_segments.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "settingsScreen_language_row_shows_current_language_english"
+    start_time {
+      seconds: 1772405865
+      nanos: 650000000
+    }
+    end_time {
+      seconds: 1772405867
+      nanos: 48000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-settingsScreen_language_row_shows_current_language_english.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "settingsScreen_shows_dark_mode_row"
+    start_time {
+      seconds: 1772405867
+      nanos: 52000000
+    }
+    end_time {
+      seconds: 1772405868
+      nanos: 367000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-settingsScreen_shows_dark_mode_row.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "settingsScreen_is_displayed"
+    start_time {
+      seconds: 1772405868
+      nanos: 370000000
+    }
+    end_time {
+      seconds: 1772405869
+      nanos: 626000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-settingsScreen_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "settingsScreen_tapping_language_row_opens_picker_dialog"
+    start_time {
+      seconds: 1772405869
+      nanos: 629000000
+    }
+    end_time {
+      seconds: 1772405871
+      nanos: 261000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-settingsScreen_tapping_language_row_opens_picker_dialog.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "darkModeToggle_clicking_dark_segment_invokes_callback_with_true"
+    start_time {
+      seconds: 1772405871
+      nanos: 264000000
+    }
+    end_time {
+      seconds: 1772405873
+      nanos: 70000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-darkModeToggle_clicking_dark_segment_invokes_callback_with_true.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "SettingsScreenTest"
+    test_package: "com.podcast.app.ui"
+    test_method: "languageDialog_shows_both_options"
+    start_time {
+      seconds: 1772405873
+      nanos: 75000000
+    }
+    end_time {
+      seconds: 1772405874
+      nanos: 266000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/logcat-com.podcast.app.ui.SettingsScreenTest-languageDialog_shows_both_options.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/soliman/Downloads/shager/PodcastApp/app/build/outputs/androidTest-results/connected/debug/SM-A155F - 16/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

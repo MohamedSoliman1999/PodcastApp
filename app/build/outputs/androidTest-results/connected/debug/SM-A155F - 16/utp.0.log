@@ -1,0 +1,64 @@
+INFO: Constructing runner from config.
+INFO: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "com.podcast.app.debug"
+    test_package: "com.podcast.app.debug.test"
+    test_runner_class: "com.podcast.app.HiltTestRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/com.podcast.app.debug/additional_test_output"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFO: No installables found in test fixture. Nothing to install.
+INFO: Installing [/Users/soliman/Downloads/shager/PodcastApp/app/build/intermediates/apk/debug/app-debug.apk] on device RK8X6011XHB.
+INFO: Installing [/Users/soliman/Downloads/shager/PodcastApp/app/build/intermediates/apk/androidTest/debug/app-debug-androidTest.apk] on device RK8X6011XHB.
+INFO: Start logcat streaming.
+INFO: Running Android Instrumentation driver.
+INFO: Stop logcat streaming.
+INFO: Uninstalling com.podcast.app.debug for device RK8X6011XHB.
+INFO: Uninstalling com.podcast.app.debug.test for device RK8X6011XHB.
+INFO: Execute com.podcast.app.ui.HomeScreenTest.homeScreen_renders_section_names_as_tabs: PASSED
+INFO: Execute com.podcast.app.ui.HomeScreenTest.homeScreen_shows_loading_shimmer: PASSED
+INFO: Execute com.podcast.app.ui.HomeScreenTest.homeScreen_settings_icon_triggers_callback: PASSED
+INFO: Execute com.podcast.app.ui.HomeScreenTest.homeScreen_no_tabs_rendered_when_sections_are_empty: PASSED
+INFO: Execute com.podcast.app.ui.HomeScreenTest.homeScreen_selected_tab_highlights_correctly: PASSED
+INFO: Execute com.podcast.app.ui.HomeScreenTest.homeScreen_error_does_not_show_tabs: PASSED
+INFO: Execute com.podcast.app.ui.HomeScreenTest.homeScreen_all_three_tab_nodes_exist_for_three_sections: PASSED
+INFO: Execute com.podcast.app.ui.HomeScreenTest.homeScreen_tab_selection_triggers_callback: PASSED
+INFO: Execute com.podcast.app.ui.MiniPlayerBarTest.miniPlayer_skip_forward_triggers_callback: PASSED
+INFO: Execute com.podcast.app.ui.MiniPlayerBarTest.miniPlayer_shows_buffering_indicator_when_buffering: PASSED
+INFO: Execute com.podcast.app.ui.MiniPlayerBarTest.miniPlayer_shows_pause_icon_when_playing: PASSED
+INFO: Execute com.podcast.app.ui.MiniPlayerBarTest.miniPlayer_is_displayed: PASSED
+INFO: Execute com.podcast.app.ui.MiniPlayerBarTest.miniPlayer_play_button_triggers_callback: PASSED
+INFO: Execute com.podcast.app.ui.MiniPlayerBarTest.miniPlayer_episode_title_is_displayed: PASSED
+INFO: Execute com.podcast.app.ui.MiniPlayerBarTest.miniPlayer_pause_button_triggers_callback: PASSED
+INFO: Execute com.podcast.app.ui.MiniPlayerBarTest.miniPlayer_shows_play_icon_when_stopped: PASSED
+INFO: Execute com.podcast.app.ui.MiniPlayerBarTest.miniPlayer_remaining_label_is_displayed: PASSED
+INFO: Execute com.podcast.app.ui.MiniPlayerBarTest.miniPlayer_queue_count_badge_is_displayed: PASSED
+INFO: Execute com.podcast.app.ui.SearchScreenTest.searchScreen_shows_idle_state_initially: PASSED
+INFO: Execute com.podcast.app.ui.SearchScreenTest.searchBar_updates_query_on_input: PASSED
+INFO: Execute com.podcast.app.ui.SearchScreenTest.searchScreen_idle_message_is_visible: PASSED
+INFO: Execute com.podcast.app.ui.SearchScreenTest.searchScreen_clear_button_absent_when_query_is_empty: PASSED
+INFO: Execute com.podcast.app.ui.SearchScreenTest.searchScreen_shows_loading_shimmer_when_isSearching: PASSED
+INFO: Execute com.podcast.app.ui.SearchScreenTest.searchScreen_clear_button_appears_when_query_is_non_empty: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.languageDialog_selecting_english_invokes_callback: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.settingsScreen_renders_correctly_in_light_mode: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.languageDialog_cancel_button_invokes_dismiss: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.settingsScreen_shows_language_row: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.settingsScreen_language_row_shows_current_language_arabic: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.languageDialog_cancel_button_is_visible: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.settingsScreen_renders_correctly_in_dark_mode: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.languageDialog_selecting_arabic_invokes_callback: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.darkModeToggle_clicking_light_segment_invokes_callback_with_false: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.darkModeToggle_shows_light_and_dark_segments: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.settingsScreen_language_row_shows_current_language_english: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.settingsScreen_shows_dark_mode_row: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.settingsScreen_is_displayed: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.settingsScreen_tapping_language_row_opens_picker_dialog: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.darkModeToggle_clicking_dark_segment_invokes_callback_with_true: PASSED
+INFO: Execute com.podcast.app.ui.SettingsScreenTest.languageDialog_shows_both_options: PASSED
