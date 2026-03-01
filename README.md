@@ -74,3 +74,7 @@ The project maintains a robust test suite using **JUnit 5**, **MockK**, and **Tu
 
 | Layer | Tooling | Focus |
 | :--- | :---
+
+## 🧪 Vedio
+
+https://github.com/user-attachments/assets/7512fbc6-b359-49e3-8d32-d41ef1ee7285
