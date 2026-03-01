@@ -1,7 +1,7 @@
 # PodcastApp 🎙️
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/art/hero_banner.png" width="100%" alt="PodcastApp Banner" />
+  <img src="[https://raw.githubusercontent.com/your-username/your-repo/main/art/hero_banner.png" width="100%" alt="PodcastApp Banner](https://github.com/user-attachments/assets/83d6828f-2f31-4f57-aa0e-53bc2e6619fa)" />
 
   <br />
 
@@ -30,9 +30,9 @@
 
 <table width="100%">
   <tr>
-    <td width="33%"><img src="[https://raw.githubusercontent.com/your-username/your-repo/main/art/screen_home.png](https://github.com/user-attachments/assets/83d6828f-2f31-4f57-aa0e-53bc2e6619fa)" width="100%" /></td>
-    <td width="33%"><img src="[https://raw.githubusercontent.com/your-username/your-repo/main/art/screen_search.png](https://github.com/user-attachments/assets/9a9ec523-3532-414b-9f4a-4a938f94664e)" width="100%" /></td>
-    <td width="33%"><img src="[https://raw.githubusercontent.com/your-username/your-repo/main/art/screen_settings.png](https://github.com/user-attachments/assets/c8173318-3737-4953-936b-c3c6931dbe73)" width="100%" /></td>
+    <td width="33%"><img src="https://github.com/user-attachments/assets/83d6828f-2f31-4f57-aa0e-53bc2e6619fa" width="100%" /></td>
+    <td width="33%"><img src="https://github.com/user-attachments/assets/9a9ec523-3532-414b-9f4a-4a938f94664e" width="100%" /></td>
+    <td width="33%"><img src="https://github.com/user-attachments/assets/c8173318-3737-4953-936b-c3c6931dbe73" width="100%" /></td>
   </tr>
   <tr align="center">
     <td><strong>Home (RTL)</strong></td>
